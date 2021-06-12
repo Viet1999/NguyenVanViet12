@@ -87,7 +87,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/nguyenvanviet12\/wp-admin\/admin-ajax.ph
 </script>
 <script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"5e61c093e4"};
+var userProfileL10n = {"user_id":"0","nonce":"71cf874cf0"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
