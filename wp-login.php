@@ -2,21 +2,25 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; NguyenViet &#8212; WordPress</title>
+	<title>Log In &lsaquo;  &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/jquery.colorbox-min.js?ver=1.3.14" id="colorbox-js"></script>
-<link rel="stylesheet" id="colorbox-theme1-css" href="https://viet1999.github.io/NguyenVanViet12/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/theme1/colorbox.css?ver=1.3.14" media="screen">
-<link rel="stylesheet" id="dashicons-css" href="https://viet1999.github.io/NguyenVanViet12/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://viet1999.github.io/NguyenVanViet12/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/login.min.css?ver=5.7.2" media="all">
+<!--n2css--><script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/jquery.colorbox-min.js?ver=1.3.14" id="colorbox-js"></script>
+<link rel="stylesheet" id="colorbox-theme1-css" href="https://viet1999.github.io/NguyenVanViet12/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/theme1/colorbox.css?ver=1.3.14" type="text/css" media="screen">
+<link rel="stylesheet" id="dashicons-css" href="https://viet1999.github.io/NguyenVanViet12/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://viet1999.github.io/NguyenVanViet12/wp-includes/css/buttons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/forms.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/l10n.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-270x270.jpg">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -48,58 +52,63 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://viet1999.github.io/NguyenVanViet12/wp-login.php?action=lostpassword">Lost your password?</a>
+								<a href="https://viet1999.github.io/NguyenVanViet12/tai-khoan/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://viet1999.github.io/NguyenVanViet12/">&larr; Go to NguyenViet</a>		</p>
+			<a href="https://viet1999.github.io/NguyenVanViet12/">&larr; Go to </a>		</p>
 			</div>
-	<script id="zxcvbn-async-js-extra">
+	<script type="text/javascript" id="zxcvbn-async-js-extra">
+/* <![CDATA[ */
 var _zxcvbnSettings = {"src":"https:\/\/viet1999.github.io\/NguyenVanViet12\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
 </script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
-<script id="wp-polyfill-js-after">
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wp-polyfill-js-after">
 ( 'fetch' in window ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
 </script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
-<script id="wp-i18n-js-after">
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
-<script id="password-strength-meter-js-extra">
+<script type="text/javascript" id="password-strength-meter-js-extra">
+/* <![CDATA[ */
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
 </script>
-<script id="password-strength-meter-js-translations">
+<script type="text/javascript" id="password-strength-meter-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
-<script id="wp-util-js-extra">
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/nguyenvanviet12\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
 </script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"71cf874cf0"};
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
+<script type="text/javascript" id="user-profile-js-extra">
+/* <![CDATA[ */
+var userProfileL10n = {"user_id":"0","nonce":"9d7d522b6c"};
+/* ]]> */
 </script>
-<script id="user-profile-js-translations">
+<script type="text/javascript" id="user-profile-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://viet1999.github.io/NguyenVanViet12/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-	</script>
-		<div class="clear"></div>
+<script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
+	<div class="clear"></div>
 	</body>
 	</html>
