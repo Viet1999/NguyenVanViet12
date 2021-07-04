@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title></title>
-	<atom:link href="http://localhost/nguyenvanviet12/feed/" rel="self" type="application/rss+xml" />
+	<title>giới thiệu về nước hoa</title>
+	<atom:link href="http://localhost/nguyenvanviet12/category/gioi-thieu-ve-nuoc-hoa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viet1999.github.io/NguyenVanViet12</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Jul 2021 01:55:38 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-32x32.jpg</url>
-	<title></title>
+	<title>giới thiệu về nước hoa</title>
 	<link>https://viet1999.github.io/NguyenVanViet12</link>
 	<width>32</width>
 	<height>32</height>
