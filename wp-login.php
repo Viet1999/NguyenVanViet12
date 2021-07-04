@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo;  &#8212; WordPress</title>
+	<title>Log In &lsaquo; CamWin &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <!--n2css--><script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
@@ -16,10 +16,10 @@
 <link rel="stylesheet" id="login-css" href="https://viet1999.github.io/NguyenVanViet12/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-32x32.jpg" sizes="32x32">
-<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-192x192.jpg" sizes="192x192">
-<link rel="apple-touch-icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-180x180.jpg">
-<meta name="msapplication-TileImage" content="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-210197751_3050358491863611_3846782154297163698_n-1-270x270.jpg">
+	<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-cropped-210197751_3050358491863611_3846782154297163698_n-1-100x100.jpg" sizes="32x32">
+<link rel="icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-cropped-210197751_3050358491863611_3846782154297163698_n-1-300x300.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-cropped-210197751_3050358491863611_3846782154297163698_n-1-300x300.jpg">
+<meta name="msapplication-TileImage" content="https://viet1999.github.io/NguyenVanViet12/wp-content/uploads/2021/07/cropped-cropped-210197751_3050358491863611_3846782154297163698_n-1-300x300.jpg">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
@@ -59,7 +59,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://viet1999.github.io/NguyenVanViet12/">&larr; Go to </a>		</p>
+			<a href="https://viet1999.github.io/NguyenVanViet12/">&larr; Go to CamWin</a>		</p>
 			</div>
 	<script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
