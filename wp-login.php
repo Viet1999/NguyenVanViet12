@@ -98,7 +98,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/nguyenvanviet12\/wp-admin\/admin-ajax.ph
 <script type="text/javascript" src="https://viet1999.github.io/NguyenVanViet12/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"a3a2ef0508"};
+var userProfileL10n = {"user_id":"0","nonce":"4f9f5899eb"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
